@@ -30,5 +30,7 @@
 		<string>fetch</string>
 		<string>remote-notification</string>
 	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone access require for voice as input in verloop SDK</string>
 </dict>
 </plist>
